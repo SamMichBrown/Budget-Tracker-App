@@ -4,6 +4,17 @@
 
   This app allows users to have a fast and easy way to track their money, and access that information online or offline! The user will be able to
   add expenses and deposits to their budget with or without a connection.
+  
+  ## Technologies Used
+  
+  - Mongoose/MongoDB Atlas
+  - indexedDB/NoSQL
+  - Express.js
+  - Morgan
+  - Compresssion
+  - Heroku
+  
+  This application follows PWA: Progressive web application practices.
  
   ## Installation
   
